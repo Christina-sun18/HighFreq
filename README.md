@@ -4,6 +4,8 @@
 # HighFreq
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/Christina-sun18/HighFreq/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Christina-sun18/HighFreq/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of HighFreq is to …
